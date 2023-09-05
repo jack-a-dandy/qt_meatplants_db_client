@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file>product_names.txt</file>
+<file>product_types.txt</file>
+<file>property_types.txt</file>
+</qresource>
+</RCC>
